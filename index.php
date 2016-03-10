@@ -54,21 +54,21 @@
 
   <div class="carousel-inner">
     <div class="item active">
-      <a href="#"><img src="http://placekitten.com/1600/600" /></a>
+        <a href="#"><img src="img/img1.jpg" /></a>
       <div class="carousel-caption">
         <h3>Meow</h3>
         <p>Just Kitten Around</p>
       </div>
     </div>
     <div class="item">
-      <a href="#"><img src="http://placekitten.com/1600/600" /></a>
+        <a href="#"><img src="img/img2.jpg" /></a>
       <div class="carousel-caption">
         <h3>Meow</h3>
         <p>Just Kitten Around</p>
       </div>
     </div>
     <div class="item">
-      <a href="#"><img src="http://placekitten.com/1600/600" /></a>
+        <a href="#"><img src="img/logo.png" /></a>
       <div class="carousel-caption">
         <h3>Meow</h3>
         <p>Just Kitten Around</p>
