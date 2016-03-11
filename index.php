@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="css/defult-style.css">
     <!-- Bootstrap 3.3.5 -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome -->
@@ -18,7 +19,8 @@
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
 </head>
-<<body class="sidebar-mini skin-green-light fixed">
+
+<body class="sidebar-mini skin-green-light fixed">
     <!-- Site wrapper -->
     <div class="wrapper">
 
@@ -361,19 +363,19 @@
                       </ol>
                       <div class="carousel-inner">
                         <div class="item active">
-                          <img src="http://placehold.it/900x500/39CCCC/ffffff&text=I+Love+Bootstrap" alt="First slide">
+                            <img src="img/img1.jpg" alt="First slide">
                           <div class="carousel-caption">
                             First Slide
                           </div>
                         </div>
                         <div class="item">
-                          <img src="http://placehold.it/900x500/3c8dbc/ffffff&text=I+Love+Bootstrap" alt="Second slide">
+                            <img src="img/img2.jpg" alt="Second slide">
                           <div class="carousel-caption">
                             Second Slide
                           </div>
                         </div>
                         <div class="item">
-                          <img src="http://placehold.it/900x500/f39c12/ffffff&text=I+Love+Bootstrap" alt="Third slide">
+                            <img src="img/img1.jpg" alt="Third slide">
                           <div class="carousel-caption">
                             Third Slide
                           </div>
