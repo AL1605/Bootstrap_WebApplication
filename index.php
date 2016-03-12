@@ -40,7 +40,7 @@
         <!-- Logo -->
         <a href="index2.html" class="logo no-padding no-margin logo-menu">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>RRU</b></span>
+          <span class="logo-mini image"><img src="img/logo222.png"></span>
           <!-- logo for regular state and mobile devices -->
           <span class="logo-lg image"><img src="img/logo111.png"></span>
         </a>
