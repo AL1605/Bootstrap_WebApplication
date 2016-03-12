@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link rel="stylesheet" href="css/defult-style.css">
     <!-- Bootstrap 3.3.5 -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome -->
@@ -28,8 +29,7 @@
     <!-- AdminLTE App -->
     <script src="dist/js/app.min.js"></script>
     <!-- AdminLTE for demo purposes -->
-    <script src="dist/js/demo.js"></script>  
-    <link rel="stylesheet" href="css/defult-style.css">
+    <script src="dist/js/demo.js"></script>
 </head>
 
 <body class="sidebar-mini skin-green-light fixed">
@@ -38,12 +38,13 @@
 
       <header class="main-header">
         <!-- Logo -->
-        <a href="index2.html" class="logo no-padding no-margin logo-menu">
+        <a href="index2.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini image"><img src="img/logo222.png"></span>
+          <span class="logo-mini"><b>A</b>LT</span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg image"><img src="img/logo111.png"></span>
+          <span class="logo-lg"><b>Admin</b>LTE</span>
         </a>
+        
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
           <!-- Sidebar toggle button-->
