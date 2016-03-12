@@ -4,3 +4,7 @@
     max-height: 400px  !important;
     margin: auto;
 }
+
+.main-header .logo > .image{
+    line-height: 0px;
+}
