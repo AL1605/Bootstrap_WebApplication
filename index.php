@@ -19,7 +19,7 @@
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
       <!-- jQuery 2.1.4 -->
-    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>   
     <!-- Bootstrap 3.3.5 -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <!-- SlimScroll -->
@@ -34,9 +34,9 @@
 
 <body class="sidebar-mini skin-green-light fixed">
     <!-- Site wrapper -->
-    <!-- AL -->
+    <!-- ALaxasdsaDasd -->
     <div class="wrapper">
-
+               
       <header class="main-header">
         <!-- Logo -->
         <!--<a href="index2.html" class="logo">
