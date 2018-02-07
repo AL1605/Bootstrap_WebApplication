@@ -34,6 +34,7 @@
 
 <body class="sidebar-mini skin-green-light fixed">
     <!-- Site wrapper -->
+    <!-- AL -->
     <div class="wrapper">
 
       <header class="main-header">
